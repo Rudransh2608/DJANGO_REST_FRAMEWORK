@@ -1,6 +1,6 @@
 # DJANGO_REST_FRAMEWORK
---- token authentication
---- jwt
---- generic views
---- api decorators
---- serializers
+--- token authentication<br>
+--- jwt<br>
+--- generic views<br>
+--- api decorators<br>
+--- serializers<br>
